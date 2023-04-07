@@ -8,4 +8,6 @@
 
 55555
 
+66666
+
 # git_squash_test
