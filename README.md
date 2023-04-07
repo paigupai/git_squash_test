@@ -4,4 +4,6 @@
 
 333333
 
+444444
+
 # git_squash_test
