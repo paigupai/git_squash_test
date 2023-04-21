@@ -10,4 +10,6 @@
 
 66666
 
+77777
+
 # git_squash_test
