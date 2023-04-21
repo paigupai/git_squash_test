@@ -12,4 +12,6 @@
 
 77777
 
+88888
+
 # git_squash_test
